@@ -23,6 +23,6 @@ public class Controller implements Initializable {
         mediaView.setMediaPlayer(player);
         player.setVolume(0);
         player.play();
-
+ 
     }
 }
