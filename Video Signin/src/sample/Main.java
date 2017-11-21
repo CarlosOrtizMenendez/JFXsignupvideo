@@ -10,7 +10,7 @@ import javafx.stage.Stage;
 
 public class Main extends Application {
 
-    Stage stage; // carlos TreeMap
+    Stage stage; // carlos TreeMap 
 
     @Override
     public void start(Stage primaryStage) throws Exception{
